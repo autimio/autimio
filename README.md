@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:autimio.dev@gmail.com)](mailto:autimio.dev@gmail.com)
 
 ![Autímio's github stats](https://github-readme-stats.vercel.app/api?username=autimio&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=autimio&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=autimio&layout=compact)
 
 ![JavaScript](https://img.shields.io/badge/-javascript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
