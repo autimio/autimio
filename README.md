@@ -2,6 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/autimio/)](https://www.linkedin.com/in/autimio/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:autimio.dev@gmail.com)](mailto:autimio.dev@gmail.com)
+[![Codewars Badge](https://www.codewars.com/users/autimio/badges/micro)](https://www.codewars.com/users/autimio)
 
 ![Autímio's github stats](https://github-readme-stats.vercel.app/api?username=autimio&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=autimio&layout=compact)
