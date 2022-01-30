@@ -30,3 +30,6 @@ I'll eventually add something here.
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github)
 ![Github](https://img.shields.io/badge/-Gitlab-black?style=flat-square&logo=gitlab)
+
+## :musical_note: What i like to hear
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22xtdnbfadjfha6aslf4bpyqq)
