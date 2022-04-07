@@ -8,6 +8,8 @@ I'll eventually add something here.
 ![Autímio's github stats](https://github-readme-stats.vercel.app/api?username=autimio&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=autimio&layout=compact&theme=tokyonight)
 
+I already worked with:
+
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=r)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
